@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 7401e382488013a4a8f2abd3372433ce
+timeCreated: 1515706114
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthItem: {fileID: 1556584599888730, guid: ba71c700ff4bd434c9d414027b34821a,
+      type: 2}
+  - armorItem: {fileID: 1391969087823918, guid: f699730b610c9844ca06cf433f8ad40f,
+      type: 2}
+  - bulletsRifle: {fileID: 1815367321319608, guid: aac018ef7274f8044a70695e25a04b8b,
+      type: 2}
+  - crackedVersion: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
