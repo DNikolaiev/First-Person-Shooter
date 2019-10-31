@@ -13,6 +13,5 @@ Classic FPS made with Unity
 - Different weapon types (yeah, including flamethrower)
 - Stealth 
 
-All of this you can find in my game
 
 
